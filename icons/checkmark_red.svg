@@ -1,0 +1,22 @@
+<svg width="21" height="20" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="22" width="23" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="13.317751" rx="17" id="svg_1" cy="162.92028" cx="251.160203" stroke-width="1.5" stroke="#1ab3ef" fill="#ffffff"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_3" y2="136.553368" x2="249.805763" y1="127.330069" x1="243.495085" stroke-width="1.5" stroke="#1ab3ef" fill="none"/>
+  <line stroke="#1ab3ef" stroke-linecap="null" stroke-linejoin="null" id="svg_4" y2="123.689293" x2="264.854303" y1="135.582494" x1="249.805763" stroke-width="1.5" fill="none"/>
+  <ellipse rx="0.121359" id="svg_5" cy="19.138349" cx="0.063109" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse ry="11.893201" rx="10.55825" id="svg_6" cy="21.322814" cx="17.781552" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="null" ry="9.124629" rx="9.940652" id="svg_9" cy="9.380564" cx="10.240354" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <ellipse stroke="#e25858" ry="9.16172" rx="9.866468" id="svg_11" cy="10.011128" cx="10.364985" fill-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#e25858" stroke-linecap="null" stroke-linejoin="null" id="svg_12" y2="14.425074" x2="8.608306" y1="9.30638" x1="4.0089" fill-opacity="null" stroke-width="1.5" fill="none"/>
+  <line stroke="#e25858" stroke-linecap="null" stroke-linejoin="null" id="svg_13" y2="5.522997" x2="17.213647" y1="13.97997" x1="8.014835" fill-opacity="null" stroke-width="1.5" fill="none"/>
+ </g>
+</svg>
